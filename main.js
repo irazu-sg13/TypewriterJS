@@ -12,7 +12,7 @@ typewriter
   .typeString("Bienvenidas y bienvenidos a esta página web.")
   .pauseFor(300)
   .deleteChars(32)
-  .typeString('<strong><span style="color: purple;"> Techolochicas </span></strong>')
+  .typeString('<strong><span style="color: purple;"> Tecnolochicas </span></strong>')
   .typeString(
     '<strong><span style="color: brown;"> ¡Saludos Cordiales! </span></strong>'
   )
