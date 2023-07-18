@@ -1,0 +1,3 @@
+Se muestra al lector/lectora el resultado del efecto 'Typewrite' en JavaScript y HTML:
+
+https://irazu-sg13.github.io/TypewriterJS/
